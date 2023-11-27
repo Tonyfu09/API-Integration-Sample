@@ -3,4 +3,5 @@
 | Category | Product | Remark |
 |-------|:-----:|------:|
 | Threat Intelligence   |  VirusTotal  |    |
-
+| Network   |  Netmiko  |    |
+| Financial   |  CoinMarketCap  |    |
